@@ -1,4 +1,4 @@
-# DynArray: basic dynamic array (list/vector) implementation
+# DynArray: Basic dynamic array (list/vector) implementation
 
 Why? Why not.
 

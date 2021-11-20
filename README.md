@@ -2,7 +2,13 @@
 
 Why? Why not.
 
-## How to run?
+## How to use?
+
+```cpp
+#include "dynarray.hpp"
+```
+
+## How to run example?
 
 ### Got make?
 
